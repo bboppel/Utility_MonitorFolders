@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[MonitorFolder.sln]
+SCC_Aux_Path = http://sqlrpt1/VaultService|AdminData:18
+SCC_Project_Name = $/SSIS/MonitorFolder/MonitorFolder
